@@ -3,7 +3,7 @@ steal Windows Telegram Desktop session
 
 在网上搜索文章时，发现一篇关于窃取Telegram和其他浏览器cookie的apt攻击报告，然后寻找了一些资料，在github上还开源了很多关于窃取Telegram session的工具，自己也简单实现了一遍，这些工具和方法都需要诱导受害者去运行恶意程序。
 
-![1](https://raw.github.com/A2kaid/TG_Session_Compress_Steal/master/view.png)
+![1](https://raw.githubusercontent.com/A2kaid/TG_Session_Compress_Steal/master/view.png)
 
 ## 参考文章和项目
 
